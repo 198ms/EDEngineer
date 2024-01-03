@@ -9904,7 +9904,7 @@
       "es": "Daño de disparo en la cabeza (Manticore plasma)",
       "pt": null,
       "de": "Kopfschussschaden (Plasma von Manticore)",
-      "fr": null,
+      "fr": "Dégâts à la tête (Plasma Manticore),"
       "ru": "Урон в голову (плазменное от Manticore)",
       "pl": null,
       "cs": "Headshot damage (Manticore plasma)",
@@ -9928,7 +9928,7 @@
       "es": "Granada de fragmentación",
       "pt": null,
       "de": "Splitter-Granate",
-      "fr": null,
+      "fr": "Grenade à Fragmentation,"
       "ru": "Осколочная граната",
       "pl": null,
       "cs": "Frag Grenade",
@@ -9940,7 +9940,7 @@
       "es": "Daño de disparo en la cabeza (Takada laser)",
       "pt": null,
       "de": "Kopfschussschaden (Laser von Takada)",
-      "fr": null,
+      "fr": "Dégâts à la tête (Laser Takada),"
       "ru": "Урон в голову (лазерное от Takada)",
       "pl": null,
       "cs": "Headshot damage (Takada laser)",
@@ -9964,7 +9964,7 @@
       "es": "Botiquín",
       "pt": null,
       "de": "Medikit",
-      "fr": null,
+      "fr": "Kit de soins,"
       "ru": "Аптечка",
       "pl": "Medkit",
       "cs": "Medkit",
@@ -10036,7 +10036,7 @@
       "es": "Cañón Gauss Guardián Modificado (Fijo) (Clase: 2)",
       "pt": null,
       "de": "Modifizierte Gauß-Kanone (fest, mittel)",
-      "fr": null,
+      "fr": "Canon de Gauss modifié (Fixe, Moyen),"
       "ru": "Модифицированная гаусс-пушка (фиксированная, средний слот)",
       "pl": "Modified Gauss Cannon (Fixed, Medium)",
       "cs": "Modified Gauss Cannon (Fixed, Medium)",
@@ -10048,7 +10048,7 @@
       "es": "Cañón Gauss Guardián Modificado (Fijo) (Clase: 1)",
       "pt": null,
       "de": "Modifizierte Gauß-Kanone (fest, klein)",
-      "fr": null,
+      "fr": "Canon de Gauss modifié (Fixe, Petit),"
       "ru": "Модифицированная гаусс-пушка (фиксированная, малый слот)",
       "pl": "Modified Gauss Cannon (Fixed, Small)",
       "cs": "Modified Gauss Cannon (Fixed, Small)",
@@ -10060,7 +10060,7 @@
       "es": "Cañón de Esquirlas Guardián Modificado (Fijo) (Clase: 2)",
       "pt": null,
       "de": "Modifizierte Splitterkanone (fest, mittel)",
-      "fr": null,
+      "fr": "Canon à Éclats modifié (Fixe, Moyen),"
       "ru": "Модифицированный «дробовик» (фиксированный, средний слот)",
       "pl": "Modified Shard Cannon (Fixed, Medium)",
       "cs": "Modified Shard Cannon (Fixed, Medium)",
@@ -10072,7 +10072,7 @@
       "es": "Cañón de Esquirlas Guardián Modificado (Fijo) (Clase: 1)",
       "pt": null,
       "de": "Modifizierte Splitterkanone (fest, klein)",
-      "fr": null,
+      "fr": "Canon à Éclats modifié (Fixe, Petit),"
       "ru": "Модифицированный «дробовик» (фиксированный, малый слот)",
       "pl": "Modified Shard Cannon (Fixed, Small)",
       "cs": "Modified Shard Cannon (Fixed, Small)",
@@ -10108,7 +10108,7 @@
       "es": "Láser Minero Modificado",
       "pt": null,
       "de": "Modifizierter Bergbaulaser",
-      "fr": null,
+      "fr": "Laser Minier modifié,"
       "ru": "Модифицированный проходочный лазер",
       "pl": "Modified Mining Laser",
       "cs": "Modified Mining Laser",
@@ -10120,7 +10120,7 @@
       "es": null,
       "pt": null,
       "de": null,
-      "fr": null,
+      "fr": "Lanceur de Dissipateur Thermique modifié,"
       "ru": null,
       "pl": "Modified Heat Sink Launcher",
       "cs": null,
